@@ -1,2 +1,2 @@
 # FlappyBird.py
-Flappy Bird game
+Flappy Bird game made with Pygame!
